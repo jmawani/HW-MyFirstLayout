@@ -1,0 +1,108 @@
+.main {
+    background-color: seashell;
+    }
+
+.Header {
+    color: #101B6E;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Exo', sans-serif;
+}
+
+.Subheader {
+    color: #101B6E;
+    text-align: left;
+    font-size: 23px;
+    font-family: 'Exo', sans-serif;
+}
+
+.About {
+    color: #00073C;
+    text-align: left;
+    font-size: 14px;
+    font-family: 'Baskervville', serif;
+}
+
+.Hobbies {
+    color: #00073C;
+    text-align: left;
+    font-size: 14px;
+    font-family: 'Baskervville', serif;
+}
+
+.Traits {
+    color: #00073C;
+    font-size: 14px;
+    font-family: 'Baskervville', serif;
+}
+
+.Traits2 {
+    color: #00073C;
+    font-size: 14px;
+    font-family: 'Baskervville', serif;
+}
+
+.ProfilePicture {
+    position: relative;
+    bottom: 580px;
+    left: 1000px;
+    max-width: 298;
+    max-height: 228;
+}
+
+.Braves {
+    display: inline-block;
+    width: 100%;
+    max-width: 109px;
+    max-height: 80px;
+    position: relative;
+    left: 450px;
+    bottom: 275px;
+}
+
+.Soccer {
+    display: inline-block;
+    width: 100%;
+    max-width: 109px;
+    max-height: 80px;
+    position: relative;
+    left: 475px;
+    bottom: 275px;
+}
+
+.Volleyball {
+    display: inline-block;
+    width: 100%;
+    max-width: 109px;
+    max-height: 80px;
+    position: relative;
+    left: 500px;
+    bottom: 275px;
+}
+
+.Bowling {
+    display: inline-block;
+    width: 100%;
+    max-width: 109px;
+    max-height: 80px;
+    position: relative;
+    left: 525px;
+    bottom: 275px;
+}   
+
+.ContactInformation {
+    font-size: 14px;
+    font-family: 'Baskervville', serif;
+    position: relative;
+    bottom: 550px;
+    left: 1000px;
+}
+
+.Quote {
+    text-align: center;
+    font-style: italic;
+    font-size: 14px;
+    font-family: 'Baskervville', serif;
+    position: relative;
+    bottom: 250px;
+}
