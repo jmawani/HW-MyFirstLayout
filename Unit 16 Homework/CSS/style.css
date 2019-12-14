@@ -17,6 +17,17 @@
     padding: 10px;
 }
 
+.Subheader2 {
+    color: #101B6E;
+    text-align: right;
+    font-size: 23px;
+    font-family: 'Satisfy', cursive;
+    position: relative;
+    bottom: 125px;
+    right: 350px;
+    padding: 10px;
+}
+
 .About {
     color: #00073C;
     text-align: left;
@@ -24,6 +35,8 @@
     font-family: 'Baskervville', serif;
     padding: 10px;
     line-height: 1.5;
+    position: relative;
+    bottom: 125px;
 }
 
 .Hobbies {
@@ -33,76 +46,124 @@
     font-family: 'Baskervville', serif;
     padding: 10px;
     line-height: 1.5;
+    position: relative;
+    bottom: 125px;
 }
 
 .AdobeXD {
     position: relative;
-    max-width: 250px;
-    max-height: 225px;
-    bottom: 390px;
-    left: 905px;
+    max-width: 300px;
+    max-height: 275px;
+    bottom: 515px;
+    left: 870px;
 }
 
 .Leadership {
     position: relative;
-    max-height: 225px;
-    max-width: 250px;
-    bottom: 390px;
-    left: 790px;
+    max-height: 275px;
+    max-width: 300px;
+    bottom: 515px;
+    left: 720px;
 }
 
 .Presentation {
     position: relative;
-    max-width: 250px;
-    max-height: 225px;
-    bottom: 390px;
-    left: 680px;
+    max-width: 300px;
+    max-height: 275px;
+    bottom: 515px;
+    left: 570px;
+}
+
+nav {
+    background-color: rgb(26, 12, 107);
+    height: 40px;
+    padding: 8px;
+    width: 100%;
+}
+
+nav ul li {
+    list-style-type: none;
+    width: 150px;
+    float: left;
+    text-align: right;
+    color: white;
+    font-family: 'Exo' , sans-serif;
+    position: relative;
+    bottom: 5px;
+}
+nav ul li:nth-child(2){
+    color: #30bfbf;
+}
+
+nav ul li:hover:nth-child(3) {
+    color: rgb(26, 224, 208)
+}
+
+nav ul li:hover:nth-child(1){
+    color: rgb(26, 224, 208)
+}
+
+nav ul li:hover:nth-child(4) {
+    color: rgb(26, 224, 208)
+}
+
+nav img {
+    max-height: 69px;
+    position: relative;
+    right: 645px;
+    bottom: 30px;
 }
 
 .WebDesign {
     position: relative;
-    max-width: 250px;
-    max-height: 225px;
-    bottom: 225px;
-    left: 139px;
+    max-width: 300px;
+    max-height: 275px;
+    bottom: 330px;
+    right: 40px;
 }
 
 .TeamWork {
     position: relative;
-    max-width: 250px;
-    max-height: 225px;
-    bottom: 225px;
-    left: 25px;
+    max-width: 300px;
+    max-height: 275px;
+    bottom: 559px;
+    left: 1025px;
 }
 
 .Adaptability {
     position: relative;
-    max-width: 250px;
-    max-height: 225px;
-    bottom: 417px;
-    left: 1188px;
+    max-width: 300px;
+    max-height: 275px;
+    bottom: 559px;
+    left: 872px;
+
 }
 
 .Profile img {
     position: relative;
     height: 350px;
-    bottom: 870px;
+    bottom: 1100px;
     left: 465px;
 }
+
 
 .ContactInformation {
     font-size: 14px;
     font-family: 'Baskervville', serif;
     position: relative;
-    bottom: 750px;
-    left: 1000px;
+    bottom: 1100px;
+    text-align: center;
+    color: #00073C;
+    text-decoration: none;
 }
-
+/*
 .Quote {
     text-align: center;
     font-style: italic;
     font-size: 14px;
     font-family: 'Baskervville', serif;
     position: relative;
-    bottom: 464px;
+    bottom: 564px;
+    right: 10px;
 }
+*/
